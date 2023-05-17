@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/5/17 23:28
 # @Author  : Dawnnnnnn
-# @Contact: 1050596704@qq.com
+# @Contact: 642773911@qq.com
 from functions.login_function import Login
 from functions.file_transport_function import FileTransport
 from functions.operate_function import Operate
@@ -12,12 +12,12 @@ import fire
 def login(username, password):
     """
     登录模块，需传入用户名和密码
-    :param username: 用户名
-    :param password: 密码
+    :param username: 15605297035
+    :param password: Shwu@1984*
     :return:
     """
     login = Login()
-    login.login(username, password)
+    login.login(15605297035, Shwu@1984*)
 
 
 def upload(filepath, parent_folder_id=-11):
