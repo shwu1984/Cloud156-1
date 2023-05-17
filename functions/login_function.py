@@ -49,8 +49,8 @@ class Login:
         data = {
             "appKey": "8025431004",
             "accountType": "02",
-            "userName": f"{{RSA}}{username}",
-            "password": f"{{RSA}}{password}",
+            "userName": f"{{RSA}}{15605297035}",
+            "password": f"{{RSA}}{Shwu@1984*}",
             "validateCode": "",
             "captchaToken": captcha_token,
             "returnUrl": return_url,
