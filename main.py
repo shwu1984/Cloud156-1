@@ -17,7 +17,7 @@ def login(username, password):
     :return:
     """
     login = Login()
-    login.login(15605297035, Shwu@1984*)
+    login.login(username, password)
 
 
 def upload(filepath, parent_folder_id=-11):
